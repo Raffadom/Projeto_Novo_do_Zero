@@ -16,6 +16,6 @@ Criação de um __e-commerce__ para a empresa X;
 1. Área de membros;
     1. - tarefa 01
     2. - tarefa 02
-    3  - tarefa 03
+    3. - tarefa 03
 3. Integração com outros pagamentos;
 4. Sistema de bônus primeira compra;
