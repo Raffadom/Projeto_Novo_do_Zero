@@ -20,5 +20,8 @@ Criação de um __e-commerce__ para a empresa X;
 3. Integração com outros pagamentos;
 4. Sistema de bônus primeira compra;
 
-#### Imagewm local
+#### Imagem local
 ![Logo](css/img/flag.png)
+
+#### Imagem externa
+![Logo php](https://icons8.com.br/icon/39852/logo-php)
