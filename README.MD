@@ -19,3 +19,6 @@ Criação de um __e-commerce__ para a empresa X;
     3. - tarefa 03
 3. Integração com outros pagamentos;
 4. Sistema de bônus primeira compra;
+
+#### Imagewm local
+![Logo](img/flag.png)
