@@ -24,4 +24,4 @@ Criação de um __e-commerce__ para a empresa X;
 ![Logo](css/img/flag.png)
 
 #### Imagem externa
-![Logo php](https://icons8.com.br/icon/39852/logo-php)
+![Logo php](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APhp-logo.png&psig=AOvVaw0CQnOGZhPzq8ib3Qh8DQgE&ust=1714677399608000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiB9pOW7YUDFQAAAAAdAAAAABAE)
