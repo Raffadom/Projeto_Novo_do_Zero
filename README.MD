@@ -21,4 +21,4 @@ Criação de um __e-commerce__ para a empresa X;
 4. Sistema de bônus primeira compra;
 
 #### Imagewm local
-![Logo](img/flag.png)
+![Logo](css/img/flag.png)
