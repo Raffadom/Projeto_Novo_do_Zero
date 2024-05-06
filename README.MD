@@ -26,6 +26,7 @@ Criação de um __e-commerce__ para a empresa X;
 #### Imagem externa
 ![Logo php](https://commons.wikimedia.org/wiki/File:PHP_Logo,_text_only.svg)
 
+
 [GOOGLE](https://www.google.com/)
 
 Link do github direto: https://github.com/Raffadom/
@@ -37,3 +38,8 @@ function soma(a,b) {
 Return a + b;
 }
 ```
+## Lista de tarefas a fazer:
+- [x] Área de membros
+- [ ] Integração pagamentos
+- [ ] Sistema de bônus
+- [x] CSS do rodapé
