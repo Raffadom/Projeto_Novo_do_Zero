@@ -32,3 +32,8 @@ Link do github direto: https://github.com/Raffadom/
 
 [![logo PHP]( https://www.shutterstock.com/pt/image-photo/hypertext-preprocessor-php-programming-interpreted-language-2357105915)](https://github.com/Raffadom/)
 
+ ```javascript
+function soma(a,b) {
+Return a + b;
+}
+```
